@@ -8,3 +8,8 @@ http://nbviewer.jupyter.org/github/kriete/Scratch_notebooks/blob/master/custom_p
 ## NetCDF4 data extraction from gridded data with polygon coordinates
 
 http://nbviewer.jupyter.org/github/kriete/Scratch_notebooks/blob/master/data_extraction_from_grid_with_polygon.ipynb?flush\_cache=true
+
+## R notebook for ERAD course
+
+http://nbviewer.jupyter.org/github/kriete/Scratch_notebooks/blob/master/erad_r_course.ipynb?flush\_cache=true
+
