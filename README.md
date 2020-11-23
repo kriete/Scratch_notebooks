@@ -13,3 +13,6 @@ http://nbviewer.jupyter.org/github/kriete/Scratch_notebooks/blob/master/data_ext
 
 http://nbviewer.jupyter.org/github/kriete/Scratch_notebooks/blob/master/erad_r_course.ipynb?flush\_cache=true
 
+## Cropwat CSV parsing
+
+https://nbviewer.jupyter.org/github/kriete/Scratch_notebooks/blob/master/crop_csv_read/David_crop_csv_reading.ipynb?flush\_cache=true
